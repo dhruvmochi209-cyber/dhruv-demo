@@ -1,2 +1,3 @@
 # dhruv-demo
-This is y first git repository
+This is my first git repository
+Author - Dhruv mochi
